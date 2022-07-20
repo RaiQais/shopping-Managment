@@ -33,6 +33,11 @@ class MyApp extends StatelessWidget {
       ),
       theme: ThemeData(
           //brightness: Brightness.dark,
+        
+        
+        ok
+        ok
+        ok
           primarySwatch: Colors.deepOrange,
           fontFamily: GoogleFonts.lato().fontFamily,
           ),
